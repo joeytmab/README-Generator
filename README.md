@@ -14,7 +14,7 @@ Below is a gif file showing functionality of the app and its aesthetics on the r
 
 ![README Generator](./src/readme.gif.gif)
 
-Full movie for functionality can be found [here](./src/readme-generator-functionality.mp4)
+Full movie for functionality can be found ---> [here](./src/readme-generator-functionality.mp4)
 
 ## Installation Parameters
 
