@@ -12,9 +12,9 @@ Finally, once the README has been generated, the user can pull the created file 
 
 Below is a gif file showing functionality of the app and its aesthetics on the repository.
 
-![README Generator](./utils/readme-generator-gif.mp4)
+![README Generator](./src/readme.gif.gif)
 
-Full movie for functionality can be found [here](./utils/readme-generator-functionality.mp4)
+Full movie for functionality can be found [here](./src/readme-generator-functionality.mp4)
 
 ## Installation Parameters
 
