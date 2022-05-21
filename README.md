@@ -19,5 +19,5 @@ Once completed, run the command `node index.js` to open the question prompts and
 ## Questions? Comments?
 
 Contact me on Github or via email! </br>
-[Github:](github.com/joeytmab) </br>
-[email:](joseph.t.binas@gmail.com)
+Github: [github.com/joeytmab](github.com/joeytmab) </br>
+Email: [joseph.t.binas@gmail.com](joseph.t.binas@gmail.com)
