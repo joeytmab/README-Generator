@@ -10,6 +10,12 @@ Options to input both a Github account username and an email address also allow 
 
 Finally, once the README has been generated, the user can pull the created file out of the "output" folder directory for immediate use.
 
+Below is a gif file showing functionality of the app and its aesthetics on the repository.
+
+![README Generator](./utils/readme-generator-gif.mp4)
+
+Full movie for functionality can be found [here](./utils/readme-generator-functionality.mp4)
+
 ## Installation Parameters
 
 `npm init` and `npm install inquirer` are necessary for proper function of the app. No test parameters are necessary.
